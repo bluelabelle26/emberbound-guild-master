@@ -1,0 +1,204 @@
+Adventurer|A Porcine of Interest
+Adventurer|A Ruff Situation
+Adventurer|Below Ice Mountain
+Adventurer|Biohazard
+Adventurer|Children of the Sun
+Adventurer|Client of Kourend
+Adventurer|Clock Tower
+Adventurer|Cook's Assistant
+Adventurer|Current Affairs
+Adventurer|Death Plateau
+Adventurer|Demon Slayer
+Adventurer|Doric's Quest
+Adventurer|Druidic Ritual
+Adventurer|Dwarf Cannon
+Adventurer|Eagles' Peak
+Adventurer|Elemental Workshop I
+Adventurer|Ernest the Chicken
+Adventurer|Ethically Acquired Antiquities
+Adventurer|Fishing Contest
+Adventurer|Gertrude's Cat
+Adventurer|Goblin Diplomacy
+Adventurer|Hazeel Cult
+Adventurer|Imp Catcher
+Adventurer|Jungle Potion
+Adventurer|Learning the Ropes
+Adventurer|Misthalin Mystery
+Adventurer|Monk's Friend
+Adventurer|Murder Mystery
+Adventurer|Pandemonium
+Adventurer|Pirate's Treasure
+Adventurer|Plague City
+Adventurer|Priest in Peril
+Adventurer|Prince Ali Rescue
+Adventurer|Rag and Bone Man I
+Adventurer|Romeo & Juliet
+Adventurer|Rune Mysteries
+Adventurer|Sheep Herder
+Adventurer|Sheep Shearer
+Adventurer|Shield of Arrav
+Adventurer|The Ides of Milk
+Adventurer|The Restless Ghost
+Adventurer|The Ribbiting Tale of a Lily Pad Labour Dispute
+Adventurer|Tower of Life
+Adventurer|Witch's Potion
+Adventurer|X Marks the Spot
+Adventurer|Alfred Grimhand's Barcrawl
+Adventurer|Daddy's Home
+Adventurer|Skippy and the Mogres
+Adventurer|Vale Totems
+D|A Soul's Bane
+D|A Tail of Two Cats
+D|Animal Magnetism
+D|Another Slice of H.A.M.
+D|At First Light
+D|Big Chompy Bird Hunting
+D|Black Knights' Fortress
+D|Bone Voyage
+D|Cold War
+D|Crab Quest
+D|Creature of Fenkenstrain
+D|Death on the Isle
+D|Death to the Dorgeshuun
+D|Eadgar's Ruse
+D|Elemental Workshop II
+D|Enlightened Journey
+D|Fairytale I - Growing Pains
+D|Fight Arena
+D|Forgettable Tale...
+D|Garden of Tranquillity
+D|Getting Ahead
+D|Ghosts Ahoy
+D|Holy Grail
+D|Horror from the Deep
+D|Icthlarin's Little Helper
+D|In Aid of the Myreque
+D|In Search of the Myreque
+D|Lost City
+D|Making History
+D|Merlin's Crystal
+D|Mountain Daughter
+D|Nature Spirit
+D|Observatory Quest
+D|Olaf's Quest
+D|Prying Times
+D|Ratcatchers
+D|Recruitment Drive
+D|Scorpion Catcher
+D|Scrambled!
+D|Sea Slug
+D|Shades of Mort'ton
+D|Shadow of the Storm
+D|Shilo Village
+D|Sleeping Giants
+D|Spirits of the Elid
+D|Tai Bwo Wannai Trio
+D|Tale of the Righteous
+D|Tears of Guthix
+D|Temple of Ikov
+D|Temple of the Eye
+D|The Ascent of Arceuus
+D|The Corsair Curse
+D|The Depths of Despair
+D|The Dig Site
+D|The Eyes of Glouphrie
+D|The Feud
+D|The Forsaken Tower
+D|The Fremennik Trials
+D|The Garden of Death
+D|The Giant Dwarf
+D|The Golem
+D|The Grand Tree
+D|The Hand in the Sand
+D|The Knight's Sword
+D|The Lost Tribe
+D|The Queen of Thieves
+D|The Slug Menace
+D|The Tourist Trap
+D|Tree Gnome Village
+D|Tribal Totem
+D|Troll Romance
+D|Troll Stronghold
+D|Twilight's Promise
+D|Vampyre Slayer
+D|Wanted!
+D|Watchtower
+D|Waterfall Quest
+D|What Lies Below
+D|Witch's House
+D|Zogre Flesh Eaters
+D|Bear Your Soul
+D|Enter the Abyss
+D|The Enchanted Key
+C|A Kingdom Divided
+C|A Taste of Hope
+C|Between a Rock...
+C|Cabin Fever
+C|Contact!
+C|Darkness of Hallowvale
+C|Defender of Varrock
+C|Devious Minds
+C|Dragon Slayer I
+C|Enakhra's Lament
+C|Fairytale II - Cure a Queen
+C|Fallen From Grace
+C|Family Crest
+C|Haunted Mine
+C|Heroes' Quest
+C|King's Ransom
+C|Land of the Goblins
+C|Lunar Diplomacy
+C|Meat and Greet
+C|My Arm's Big Adventure
+C|One Small Favour
+C|Rag and Bone Man II
+C|Regicide
+C|Roving Elves
+C|Royal Trouble
+C|Rum Deal
+C|Shadows of Custodia
+C|The Fremennik Isles
+C|The Great Brain Robbery
+C|The Heart of Darkness
+C|The Path of Glouphrie
+C|The Red Reef
+C|Throne of Miscellania
+C|Troubled Tortugans
+C|Underground Pass
+C|Barbarian Training
+C|Curse of the Empty Lord
+C|Family Pest
+C|His Faithful Servants
+C|In Search of Knowledge
+C|Lair of Tarn Razorlor
+C|Mage Arena I
+C|The General's Shadow
+B|A Night at the Theatre
+B|Beneath Cursed Sands
+B|Desert Treasure I
+B|Dream Mentor
+B|Grim Tales
+B|Legends' Quest
+B|Making Friends with My Arm
+B|Monkey Madness I
+B|Mourning's End Part I
+B|Mourning's End Part II
+B|Perilous Moons
+B|Recipe for Disaster
+B|Secrets of the North
+B|Sins of the Father
+B|Swan Song
+B|The Curse of Arrav
+B|The Final Dawn
+B|The Fremennik Exiles
+B|Hopespear's Will
+B|Into the Tombs
+B|Mage Arena II
+B|The Frozen Door
+A|Desert Treasure II - The Fallen Empire
+A|Dragon Slayer II
+A|Monkey Madness II
+A|Song of the Elves
+A|The Blood Moon Rises
+A|While Guthix Sleeps
+A|The Fractured Archive
