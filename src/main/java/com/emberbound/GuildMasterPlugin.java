@@ -1042,8 +1042,8 @@ public class GuildMasterPlugin extends Plugin
             VarbitID.KOUREND_DIARY_EASY_COMPLETE, VarbitID.KOUREND_DIARY_MEDIUM_COMPLETE,
             VarbitID.KOUREND_DIARY_HARD_COMPLETE, VarbitID.KOUREND_DIARY_ELITE_COMPLETE);
         addDiaryRegion(diaries, "Karamja",
-            net.runelite.api.Varbits.DIARY_KARAMJA_EASY, net.runelite.api.Varbits.DIARY_KARAMJA_MEDIUM,
-            net.runelite.api.Varbits.DIARY_KARAMJA_HARD, VarbitID.KARAMJA_DIARY_ELITE_COMPLETE);
+            VarbitID.ATJUN_EASY_DONE, VarbitID.ATJUN_MED_DONE,
+            VarbitID.ATJUN_HARD_DONE, VarbitID.KARAMJA_DIARY_ELITE_COMPLETE);
         return List.copyOf(diaries);
     }
 
@@ -1908,7 +1908,7 @@ public class GuildMasterPlugin extends Plugin
         assignment.area = client.getVarpValue(VarPlayerID.SLAYER_AREA);
         assignment.master = client.getVarbitValue(VarbitID.SLAYER_MASTER);
         assignment.streak = slayerStreak(assignment.master);
-        net.runelite.api.widgets.Widget name = client.getWidget(net.runelite.api.widgets.WidgetInfo.DIALOG_NPC_NAME);
+        net.runelite.api.widgets.Widget name = client.getWidget(InterfaceID.ChatLeft.NAME);
         if (name != null && !name.isHidden())
         {
             assignment.issuer = Text.removeTags(name.getText()).trim();
