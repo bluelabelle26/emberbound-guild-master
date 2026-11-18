@@ -43,6 +43,7 @@ import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.input.KeyManager;
 import net.runelite.client.input.MouseManager;
 import net.runelite.client.game.SkillIconManager;
+import net.runelite.client.audio.AudioPlayer;
 import net.runelite.client.game.ItemVariationMapping;
 import net.runelite.client.ui.overlay.OverlayManager;
 import net.runelite.client.plugins.Plugin;
@@ -193,6 +194,7 @@ public class GuildMasterPlugin extends Plugin
     @Inject private MouseManager mouseManager;
     @Inject private KeyManager keyManager;
     @Inject private SkillIconManager skillIconManager;
+    @Inject private AudioPlayer audioPlayer;
     private CovenantScroll scroll;
     private String displayedProfile;
     private int displayedSlate = -1;
@@ -834,27 +836,9 @@ public class GuildMasterPlugin extends Plugin
         scroll.showCompletion(offerTitle(completed), parameters, result);
         java.util.concurrent.CompletableFuture.runAsync(() ->
         {
-            try (javax.sound.sampled.AudioInputStream audio = javax.sound.sampled.AudioSystem
-                .getAudioInputStream(getClass().getResource("/completion-fanfare.wav")))
+            try
             {
-                javax.sound.sampled.Clip clip = javax.sound.sampled.AudioSystem.getClip();
-                clip.addLineListener(event ->
-                {
-                    if (event.getType() == javax.sound.sampled.LineEvent.Type.STOP)
-                    {
-                        clip.close();
-                    }
-                });
-                try
-                {
-                    clip.open(audio);
-                    clip.start();
-                }
-                catch (Exception ex)
-                {
-                    clip.close();
-                    throw ex;
-                }
+                audioPlayer.play(GuildMasterPlugin.class, "/completion-fanfare.wav", 0f);
             }
             catch (Exception ex)
             {
